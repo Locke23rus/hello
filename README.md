@@ -1,4 +1,9 @@
-hello-rust
-==========
+# hello
 
-A hello world Rust package.
+A simple package for Rust.
+
+## Installation
+
+```
+$ rustpkg install github.com/Locke23rus/hello
+```
